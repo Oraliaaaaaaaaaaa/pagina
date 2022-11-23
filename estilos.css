@@ -1,0 +1,34 @@
+html,body{
+    box-sizing: 0px;
+    height: 100%;
+    width: 100%;
+}
+section{
+    height: 100%;
+    width: 80%;
+    box-sizing: border-box;
+    float: left;
+}
+aside{
+    height: 100%;
+    width: 20%;
+    background-color: aqua;
+    border: 5px solid black;
+    box-sizing: border-box;
+    float: left;
+}
+article#uno{
+    height: 50%;
+    width: 100%;
+    background-color: blueviolet;
+    border: 5px solid black;
+    box-sizing: border-box;
+  
+}
+article#dos{
+    height: 50%;
+    width: 100%;
+    border: 5px solid black;
+    background-color: yellow;
+    box-sizing: border-box;
+}
